@@ -19,3 +19,5 @@ if [ "$PS1" ]; then
         ;;
     esac
 fi
+
+export PATH="/home/kyle/miniconda3/bin:$PATH"
